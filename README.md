@@ -1,8 +1,8 @@
-Apple Stock Price Prediction with Facebook Prophet
-Overview
+<h1 align="center">Apple Stock Price Prediction with Facebook Prophet</h1>
+<h3>Overview</h3>
 This dataset provides a comprehensive record of Apple's stock prices until the year 2023. The primary objective is to leverage Facebook Prophet for predictive analysis, aiming to extract valuable insights and present actionable information for informed decision-making in the realm of stock trading.
 
-Dataset Description
+<h3>Dataset Description</h3>
 The dataset comprises the following columns:
 
 Open: The opening price of Apple's stock, indicating the initial price at which the stock began trading during a given trading session.
@@ -17,7 +17,7 @@ Volume: The total number of shares of Apple's stock traded during a particular t
 
 Adj Close (Adjusted Close): The closing price adjusted for any corporate actions, such as stock splits or dividends. This adjusted value provides a more accurate reflection of the stock's performance.
 
-Goal
+<h3>Goal</h3>
 The primary goal of utilizing the Facebook Prophet model is to make accurate predictions about Apple's future stock prices. By leveraging historical data and the seasonality patterns inherent in stock prices, we aim to provide a robust tool for forecasting trends and making informed decisions.
 
 How to Use
